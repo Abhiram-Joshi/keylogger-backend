@@ -1,0 +1,8 @@
+Fernet's algorithm
+TwoFish
+ECC
+Elgamal
+
+
+
+Diffie Hellman Key exchange algorithm
